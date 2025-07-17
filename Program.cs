@@ -14,7 +14,6 @@
                 for (int j = desiredWidth; j != 0; --j)
                 { 
                     Console.Write(number);
-                    
                 }
                 desiredWidth--;
                 Console.WriteLine("\n");
